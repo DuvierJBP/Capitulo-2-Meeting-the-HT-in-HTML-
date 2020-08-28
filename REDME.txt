@@ -1,0 +1,2 @@
+Esta prácticca pertenece al capitulo 2 de Head_First_HTML_and_CSS_Elisabeth_Robson_Eric_Freeman.
+En esta practica se estudian las etiquetas <img>...</img> y <a>...</a> junto alguinos de sus atributos y las rutas relativas.
